@@ -1,6 +1,6 @@
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Gak nggo musik ra??',
+        title: 'Pake musik nggak???',
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
